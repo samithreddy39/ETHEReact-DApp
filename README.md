@@ -1,6 +1,4 @@
-# Decentralized E-Commerce using ETHEReact!
-
-![alt text](https://github.com/PruthviKumarBK/Decentralized_eCom/blob/master/ETHEReact.png)
+# Decentralized E-Commerce using ETHEReact
 
 # Description
 ETHEReact is a full-stack DApp, showcasing e-commerce capabilities without relying on any traditional database for the backend. Instead, it utilizes the Ethereum Virtual Machine (EVM) as its backbone. This project serves as an idea for aspiring blockchain enthusiasts to explore the full potential of decentralized applications, from end to end.
